@@ -1,2 +1,3 @@
 # Tecblog
- Blog sobre tecnologia
+ Blog sobre tecnologia e afins!
+ 
